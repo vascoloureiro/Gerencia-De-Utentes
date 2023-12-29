@@ -1,0 +1,15 @@
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\DadosProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\DadosProj.AssemblyInfoInputs.cache
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\DadosProj.AssemblyInfo.cs
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\DadosProj.csproj.CoreCompileInputs.cache
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\DadosProj.csproj.AssemblyReference.cache
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\bin\Debug\net6.0\DadosProj.deps.json
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\bin\Debug\net6.0\DadosProj.dll
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\bin\Debug\net6.0\DadosProj.pdb
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\bin\Debug\net6.0\API_program.dll
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\bin\Debug\net6.0\API_program.pdb
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\DadosProj.csproj.CopyComplete
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\DadosProj.dll
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\refint\DadosProj.dll
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\DadosProj.pdb
+C:\Users\Vasco\Desktop\DadosProj\DadosProj\obj\Debug\net6.0\ref\DadosProj.dll

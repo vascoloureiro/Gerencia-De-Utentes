@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DadosProj.Consultas">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAgAAAAAACAEAAAAQAACAEAAAAAAEASABAAAM=</HashCode>
+      <FileName>Consultas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DadosProj.GestorFuncional">
+    <Position X="12.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GestorFuncional.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Consultas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DadosProj.Profissional_Saude_Funcional">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAQEEAAAIQAAA=</HashCode>
+      <FileName>Profissional_Saude_Funcional.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Consultas" />
+      <Property Name="UtentesFuncional" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DadosProj.Texto">
+    <Position X="8.25" Y="13.5" Width="1.5" />
+    <AssociationLine Name="UtentesFuncional" Type="DadosProj.UtentesFuncional" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.938" Y="13.5" />
+        <Point X="8.938" Y="12.793" />
+        <Point X="4.312" Y="12.793" />
+        <Point X="4.312" Y="9.079" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.098" Y="0.52" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Profissional_Saude_Funcional" Type="DadosProj.Profissional_Saude_Funcional" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.938" Y="13.5" />
+        <Point X="8.938" Y="12.806" />
+        <Point X="7.176" Y="12.806" />
+        <Point X="7.176" Y="8.877" />
+        <Point X="7.188" Y="8.877" />
+        <Point X="7.188" Y="8.502" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Consultas" Type="DadosProj.Consultas" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.938" Y="13.5" />
+        <Point X="8.938" Y="12.796" />
+        <Point X="10.375" Y="12.796" />
+        <Point X="10.375" Y="11.199" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="GestorFuncional" Type="DadosProj.GestorFuncional" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.938" Y="13.5" />
+        <Point X="8.938" Y="12.793" />
+        <Point X="13.25" Y="12.793" />
+        <Point X="13.25" Y="7.925" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAiAAAAAAAAAACAAAAIAIAAAACFQAAAAAAAAQA=</HashCode>
+      <FileName>Texto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UtentesFuncional" />
+      <Property Name="Profissional_Saude_Funcional" />
+      <Property Name="Consultas" />
+      <Property Name="GestorFuncional" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DadosProj.Texto_Ex" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <AssociationLine Name="GestorFuncional" Type="DadosProj.GestorFuncional" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="4.062" />
+        <Point X="8.75" Y="4.437" />
+        <Point X="13.312" Y="4.437" />
+        <Point X="13.312" Y="6.5" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Consultas" Type="DadosProj.Consultas" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="4.062" />
+        <Point X="8.75" Y="6.125" />
+        <Point X="10.25" Y="6.125" />
+        <Point X="10.25" Y="6.5" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Profissional_Saude_Funcional" Type="DadosProj.Profissional_Saude_Funcional" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="4.062" />
+        <Point X="8.75" Y="6.125" />
+        <Point X="7.25" Y="6.125" />
+        <Point X="7.25" Y="6.5" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="UtentesFuncional" Type="DadosProj.UtentesFuncional" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="4.062" />
+        <Point X="8.75" Y="4.437" />
+        <Point X="4.25" Y="4.437" />
+        <Point X="4.25" Y="6.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ACEABAACAAAAAAAAAACAAEAAAIAAAAAFQAAAAQgAAQA=</HashCode>
+      <FileName>Texto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GestorFuncional" />
+      <Property Name="Consultas" />
+      <Property Name="Profissional_Saude_Funcional" />
+      <Property Name="UtentesFuncional" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DadosProj.UtentesFuncional">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAABAAAAAAAAAAggAAAIAAAAEAAAABAAA=</HashCode>
+      <FileName>UtentesFuncional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

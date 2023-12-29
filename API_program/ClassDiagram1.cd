@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="API_program.Gestor">
+    <Position X="1.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAQAAFAGAABAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Gestor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="API_program.Pessoa" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAgAAAAACgAACAABAQAQAACAEAQAAAMBAQACAAAI=</HashCode>
+      <FileName>PessoaDados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="API_program.Profissional_Saude">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAACAAAAgAAAAAAAgAAAAoAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Profissional_Saude.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="API_program.Utente">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBEAABAAhAAAAAgAAAwAAAAIAAAAEAAAAAAEAgA=</HashCode>
+      <FileName>utentes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+C:\Users\Vasco\Desktop\DadosProj\API_program\obj\Debug\net6.0\API_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasco\Desktop\DadosProj\API_program\obj\Debug\net6.0\API_program.AssemblyInfoInputs.cache
+C:\Users\Vasco\Desktop\DadosProj\API_program\obj\Debug\net6.0\API_program.AssemblyInfo.cs
+C:\Users\Vasco\Desktop\DadosProj\API_program\obj\Debug\net6.0\API_program.csproj.CoreCompileInputs.cache
+C:\Users\Vasco\Desktop\DadosProj\API_program\bin\Debug\net6.0\API_program.deps.json
+C:\Users\Vasco\Desktop\DadosProj\API_program\bin\Debug\net6.0\API_program.dll
+C:\Users\Vasco\Desktop\DadosProj\API_program\bin\Debug\net6.0\API_program.pdb
+C:\Users\Vasco\Desktop\DadosProj\API_program\obj\Debug\net6.0\API_program.dll
+C:\Users\Vasco\Desktop\DadosProj\API_program\obj\Debug\net6.0\refint\API_program.dll
+C:\Users\Vasco\Desktop\DadosProj\API_program\obj\Debug\net6.0\API_program.pdb
+C:\Users\Vasco\Desktop\DadosProj\API_program\obj\Debug\net6.0\ref\API_program.dll
